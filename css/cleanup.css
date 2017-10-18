@@ -11,8 +11,5 @@ body div#wall #tag-3.slick {
 }
 
 #wall .parent #tag-4 {
-  background: url(../images/tag-4.png) no-repeat;
-  z-index: 4;
-  display: block;
+  display: none;
 }
-
